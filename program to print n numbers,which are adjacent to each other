@@ -1,0 +1,5 @@
+n=int(input("enter a number:"))
+s=0
+while(s<=n):
+    print(s,end=' ')
+    s=s+1
